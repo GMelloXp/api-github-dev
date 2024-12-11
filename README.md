@@ -5,4 +5,4 @@ como objetivo utilizar o framework react junto com um consumo de api.
 Este projeto será atualizado até o término das aulas de desenvolvimento do
 mesmo!
 
-alteração
+Até agora, criamos a página inicial com seus elementos básicos.
